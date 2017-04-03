@@ -1,3 +1,4 @@
+0. Create a program that will multiply to numbers
 1. Finish this lecture
 2. Send kudos to all
 3. Say hi to the boss
